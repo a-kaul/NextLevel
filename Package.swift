@@ -1,4 +1,5 @@
-//
+// swift-tools-version:5.1
+
 //  Package.swift
 //  NextLevel (http://nextlevel.engineering/)
 //
